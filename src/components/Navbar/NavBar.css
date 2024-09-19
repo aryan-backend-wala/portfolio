@@ -1,0 +1,12 @@
+.navbar-list > li {
+  list-style: none;
+}
+
+.navbar-list {
+  display: flex;
+  gap: 31.35px;
+}
+
+.navbar {
+  margin-bottom: 223px;
+}

@@ -1,0 +1,30 @@
+.box-container {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  /* background-color: red; */
+}
+
+.black-box {
+  width: 640px;
+  height: 365px;
+  background-color: var(--main-gray);
+}
+
+.left {
+  display: flex;
+  flex-direction: column;
+}
+
+.pb-25 {
+  padding-bottom: 25px;
+}
+
+.pb-50 {
+  padding-bottom: 50px;
+}
+
+.pb-100 {
+  padding-bottom: 100px;
+}
